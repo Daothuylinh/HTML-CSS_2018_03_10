@@ -1,0 +1,17 @@
+.mainMenu {
+    height: 46px;
+    background: #3daa12;
+    margin-bottom: 12px;
+    position: relative;
+    margin-top: 8px;
+}
+.mainMenu ul li a.trangchu {
+    background: url(../images/sprites.png) 7px -62px no-repeat;
+    width: 18px;
+    height: 10px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.sectionDepartment {
+    
+}
